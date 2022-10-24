@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jasminearnold
+- 👀 I’m interested in cybersecurity 
+- 🌱 I’m currently learning fullstack 
+- 💞️ I’m looking to collaborate on any and all projects
+- 📫 How to reach me jasmine.arnold@icloud.com
